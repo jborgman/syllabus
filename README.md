@@ -33,7 +33,7 @@ Feedback will be given in the pull request, so please respond with your thoughts
 These apply to real life, as well.
 
 * Must apply "good programming style" learned in class
-    * See [Rules to Wire By](http://www.ni.com/white-paper/5560/en/))
+    * See [Rules to Wire By](http://www.ni.com/white-paper/5560/en/)
     * Optimize for readability
     * Documentation
 * Bonus points for:
