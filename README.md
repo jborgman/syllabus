@@ -2,6 +2,8 @@
 
 * **Course:** [PHYS434, B280](http://www.washington.edu/students/crscat/phys.html#phys434)
 * **Instructors:** Toby Burnett, Durmus Karatay
+* **Text:** [Hands-On Introduction to LabVIEW for Scientists and Engineers, John Essick](http://www.amazon.com/Hands--Introduction-LabVIEW-Scientists-Engineers/dp/0199925151/)
+* **Software:** [Labview 2014](http://www.engr.washington.edu/mycoe/computing/software/install_labview)
 * **Need help?**
    * Look through and create [issues](https://github.com/uw-labview/syllabus/issues)
    * Email [Durmus](mailto:ukaratay@uw.edu) or [Toby](mailto:tburnett@myuw.net) for 1-on-1 help, or to set up a time to meet
@@ -10,18 +12,18 @@
 
 Understand how to use computers for experimental control, data acquisition, and data analysis, and understand the principles involved in each. Review and consolidate electronics knowledge. Learn the standard tool LabVIEW.
 
-## Course Overview
-
 ## Homework/Projects
 
 All assignments are listed within the [Course Outline](#course-outline).
 
+These are usually two-person partnerships. It should be written and submitted as a joint effort. The same grade goes to each. Text corresponding to an introduction and conclusions must be written into the VI.
+
 ### Workflow
 
-1. Fork the repository for the exercise/project (found under [github.com/uw-labview](https://github.com/uw-labview))
+1. [Fork the repository](https://help.github.com/articles/fork-a-repo) for the exercise/project (found under [github.com/uw-labview](https://github.com/uw-labview))
 1. Clone the repository to your computer
 1. Modify the files to complete your solution
-1. Make sure all of your code is committed
+1. Make sure all of your project is committed
 1. Push/sync up to GitHub
 1. [Create a pull request](https://help.github.com/articles/creating-a-pull-request) on the original repository by the due time (generally the start of the following class)
 1. You can continue to push fixes and improvements until the close date (listed in Classes) – just add a comment in the pull request to let me know it's been updated.
@@ -41,21 +43,26 @@ These apply to real life, as well.
 
 ## Course Outline
 
-### Class 1
-
-#### Homework
+### Week 1
+Chapters 1 and 2, Problems 1.4 and 2.6 are due in class time.
+#### Homework (Due by 10/7/14)
+Chapter 2 Do-it-Yourself
 
 ## Pairing Tips
 
 * Three people is possible, but two works best
 * The person who's less experienced/comfortable should have more keyboard time
 * Switch who's "driving" regularly
-* Make sure to save the code and send it to both people
+* Make sure to save the project and send it to both people
 
 ## Grading
 
-* Class Participation
-* Homework
+* Class Participation (10%)
+* Homework (50%)
+  * Functionality (25%)
+  * Documentation (12.5%)
+  * Readability (12.5%)
+* Project (40%)
 
 ### License
 
