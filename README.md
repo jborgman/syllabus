@@ -3,7 +3,7 @@
 * **Course:** [PHYS434, B280](http://www.washington.edu/students/crscat/phys.html#phys434)
 * **Instructors:** Toby Burnett, Durmus Karatay
 * **Text:** Hands-On Introduction to LabVIEW for Scientists and Engineers, John Essick [Amazon](http://www.amazon.com/Hands--Introduction-LabVIEW-Scientists-Engineers/dp/0199925151/)
-[U bookstore](http://sdb.admin.washington.edu/textbooks/query.asp?qtr=Autumn&sln=19673)
+[U Bookstore](http://sdb.admin.washington.edu/textbooks/query.asp?qtr=Autumn&sln=19673)
 * **Software:** [Labview 2014](http://www.engr.washington.edu/mycoe/computing/software/install_labview)
 * **Need help?**
    * Look through and create [issues](https://github.com/uw-labview/syllabus/issues)
@@ -29,13 +29,13 @@ These are usually two-person partnerships. It should be written and submitted as
 1. [Create a pull request](https://help.github.com/articles/creating-a-pull-request) on the original repository by the due time (generally the start of the following class)
 1. You can continue to push fixes and improvements until the close date (listed in Classes) – just add a comment in the pull request to let me know it's been updated.
 
-Feedback will be given in the pull request, so please respond with your thoughts and questions! You are welcome to open the pull request as the work is still in-progress if you are stuck and want to ask a question – just mention `@ukaratay` with the question to make sure I know to look at it sooner.
+Feedback will be given in the pull request, so please respond with your thoughts and questions! You are welcome to open the pull request as the work is still in-progress if you are stuck and want to ask a question – just mention `@ukaratay` with the question.
 
 ### Requirements
 
 These apply to real life, as well.
 
-* Must apply "good programming style" learned in class
+* Must apply "good programming style"
     * See [Rules to Wire By](http://www.ni.com/white-paper/5560/en/)
     * Optimize for readability
     * Documentation
@@ -51,7 +51,6 @@ Chapter 2 Do-it-Yourself
 
 ## Pairing Tips
 
-* Three people is possible, but two works best
 * The person who's less experienced/comfortable should have more keyboard time
 * Switch who's "driving" regularly
 * Make sure to save the project and send it to both people
@@ -65,7 +64,16 @@ Chapter 2 Do-it-Yourself
   * Readability (12.5%)
 * Project (40%)
 
+## Statements on Plagiarism
+### UW
+
+> In computer programming classes, borrowing computer code from another student and presenting it as your own. When original computer code is a requirement for a class, it is a violation of the Universityʹs policy if students submit work they themselves did not create. 
+
+### Instructors
+
+You are encouraged to learn from the work of your peers. This class is structured such that all solutions are public. We won't hunt down people who are simply copying-and-pasting solutions, because without challenging themselves, they are simply wasting their time and money taking this class.
+
 ### License
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">work</span> and all other materials under https://github.com/uw-labview are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
-The Markdown boilerplate for the syllabus has been taken from [advanced-js](https://github.com/advanced-js/syllabus).
+The Markdown boilerplate and some of the statements for the syllabus have been taken from [advanced-js](https://github.com/advanced-js/syllabus).
