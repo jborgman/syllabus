@@ -2,11 +2,12 @@
 
 * **Course:** [PHYS434, B280](http://www.washington.edu/students/crscat/phys.html#phys434)
 * **Instructors:** Toby Burnett, Durmus Karatay
-* **Text:** [Hands-On Introduction to LabVIEW for Scientists and Engineers, John Essick](http://www.amazon.com/Hands--Introduction-LabVIEW-Scientists-Engineers/dp/0199925151/)
+* **Text:** Hands-On Introduction to LabVIEW for Scientists and Engineers, John Essick [Amazon](http://www.amazon.com/Hands--Introduction-LabVIEW-Scientists-Engineers/dp/0199925151/)
+[U bookstore](http://sdb.admin.washington.edu/textbooks/query.asp?qtr=Autumn&sln=19673)
 * **Software:** [Labview 2014](http://www.engr.washington.edu/mycoe/computing/software/install_labview)
 * **Need help?**
    * Look through and create [issues](https://github.com/uw-labview/syllabus/issues)
-   * Email [Durmus](mailto:ukaratay@uw.edu) or [Toby](mailto:tburnett@myuw.net) for 1-on-1 help, or to set up a time to meet
+   * Email [Durmus](mailto:ukaratay@uw.edu) or [Toby](mailto:tburnett@uw.edu) for 1-on-1 help, or to set up a time to meet
 
 ## Course Description
 
